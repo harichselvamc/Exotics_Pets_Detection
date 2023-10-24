@@ -1,8 +1,8 @@
-# Exotic Pet Classification App
+# Exotic Pet Detection App
 
 ## Introduction
 
-The Exotic Pet Classification App is a Streamlit application designed for predicting the type of an exotic pet based on an uploaded image. Whether you're an enthusiast or simply curious about your exotic pet's category, this app can provide you with the answer.
+The Exotic Pet detection App is a Streamlit application designed for predicting the type of an exotic pet based on an uploaded image. Whether you're an enthusiast or simply curious about your exotic pet's category, this app can provide you with the answer.
 
 ## Features
 
@@ -11,11 +11,11 @@ The Exotic Pet Classification App is a Streamlit application designed for predic
 
 ## Demo
 
-You can experience a live demonstration of the app [here](https://exoticpetclassification.streamlit.app/).
+You can experience a live demonstration of the app [here](https://exoticpetdetection.streamlit.app/).
 
 ## Installation
 
-To run the Exotic Pet Classification App locally, please follow these steps:
+To run the Exotic Pet detection App locally, please follow these steps:
 
 1. Clone this repository:
 
@@ -39,7 +39,7 @@ To run the Exotic Pet Classification App locally, please follow these steps:
    ```bash
     streamlit run app.py
 
-### The app will open in your web browser, allowing you to upload Pets images for classification.
+### The app will open in your web browser, allowing you to upload Pets images for detection.
 
 
 
